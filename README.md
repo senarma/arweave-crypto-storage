@@ -1,12 +1,16 @@
 # arweave-crypto-storage
 dApp for storage and send encrypted data using Arweave
 
+### For run the dApp
+### 'npm install'
+### 'npm start'
+
 
 ### Store Encrypted Data
 the dApp generate a private key using your wallet file, encrypt the data and store in Arweave
 
 ### Send Encrypted Data
-1 - Users who can receive data should upload in the Public Key in Arweave, the dApp generate a public key derivative from wallet file.
+1 - Users who can receive data should upload the Public Key in Arweave, the dApp generate a public key derivative from wallet file.
 
 2 - To send an encrypted file we need the Arweave address of the receiver, we push the public key data from the Arweave blockchain
 
