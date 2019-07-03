@@ -2,8 +2,12 @@
 dApp for storage and send encrypted data using Arweave
 
 ### For run the dApp
-### 'npm install'
-### 'npm start'
+```
+$ npm install
+```
+```
+$ npm start
+```
 
 
 ### Store Encrypted Data
